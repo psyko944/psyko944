@@ -1,8 +1,6 @@
-<img alt="Coding" width="1000" height="400" src="https://user-images.githubusercontent.com/75543207/217775339-dc7035a1-ced9-4fec-973b-b957631a364d.gif">
 <h1 align="center">Hi 👋, I'm psyko</h1>
 <h3 align="center">a student as 42 PARIS</h3>
-
-
+<img align="right" alt="Coding" width="300" height="200" src="https://user-images.githubusercontent.com/75543207/217775339-dc7035a1-ced9-4fec-973b-b957631a364d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyko944&label=Profile%20views&color=0e75b6&style=flat" alt="psyko944" /> </p>
 
 - 🌱 I’m currently learning **Javascript**
@@ -21,3 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psyko944&show_icons=true&locale=en" alt="psyko944" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyko944&" alt="psyko944" /></p>
+
+<h2></h2>
+
+<h3 align="center">42 Projects</h3>
