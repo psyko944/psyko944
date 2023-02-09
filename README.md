@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm psyko</h1>
+<h2 align="center">Hi 👋, I'm psyko</h2>
 <h3 align="center">a student as 42 PARIS</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://user-images.githubusercontent.com/75543207/217775339-dc7035a1-ced9-4fec-973b-b957631a364d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyko944&label=Profile%20views&color=0e75b6&style=flat" alt="psyko944" /> </p>
