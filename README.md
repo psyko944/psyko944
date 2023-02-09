@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm psyko</h1>
 <h3 align="center">a student as 42 PARIS</h3>
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<img src="wallpaper github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyko944&label=Profile%20views&color=0e75b6&style=flat" alt="psyko944" /> </p>
 
