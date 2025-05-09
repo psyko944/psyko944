@@ -42,3 +42,6 @@
 <br>
 <br>
 <br>
+<br>
+
+<img src="https://raw.githubusercontent.com/psyko944/psyko944/output/github-snake.svg" alt="Snake animation" />
