@@ -24,8 +24,10 @@
 ## 🌐 SOCIALS
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mehdi-kherbouche/" target="_blank">
+  <a href="https://www.linkedin.com/in/mehdi-kherbouche-7947b7229/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.codingame.com/profile/4bedea77137ede103b4bd843a47b33c61745375" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodinGame&logo=linkedin&label=&color=fcd207&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 <br>
