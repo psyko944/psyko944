@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" height="200" src="https://user-images.githubusercontent.com/75543207/217775339-dc7035a1-ced9-4fec-973b-b957631a364d.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyko944&label=Profile%20views&color=0e75b6&style=flat" alt="psyko944" /> </p> -->
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **mehdi.kherboucheidf@gmail.com**
 
