@@ -36,8 +36,9 @@
 
 
 <div style="border: 2px solid #3498db; padding: 10px; border-radius: 10px;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyko944&show_icons=true&locale=en&layout=compact&theme=radical" alt="psyko944" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=psyko944&show_icons=true&locale=en&theme=radical" alt="psyko944"/></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psyko944&theme=radical" alt="GitHub Streak" />
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyko944&show_icons=true&locale=en&layout=compact&theme=radical" alt="psyko944" /></p>-->
+<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=psyko944&show_icons=true&locale=en&theme=radical" alt="psyko944"/></p>-->
 </div>
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyko944&" alt="psyko944" /></p>-->
 <br>
