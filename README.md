@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer & 42 Paris Student specialized in Cloud Infrastructure</h3>
 <br>
 <img align="right" alt="Coding" width="300" height="200" src="https://user-images.githubusercontent.com/75543207/217775339-dc7035a1-ced9-4fec-973b-b957631a364d.gif">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyko944&label=Profile%20views&color=0e75b6&style=flat" alt="psyko944" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekherbo&label=Profile%20views&color=0e75b6&style=flat" alt="mekherbo" /> </p> -->
 
 - 📫 How to reach me **mehdi.kherboucheidf@gmail.com**
 
@@ -37,11 +37,11 @@
 
 
 <div style="border: 2px solid #3498db; padding: 10px; border-radius: 10px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psyko944&theme=radical" alt="GitHub Streak" />
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyko944&show_icons=true&locale=en&layout=compact&theme=radical" alt="psyko944" /></p>-->
-<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=psyko944&show_icons=true&locale=en&theme=radical" alt="psyko944"/></p>-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mekherbo&theme=radical" alt="GitHub Streak" />
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekherbo&show_icons=true&locale=en&layout=compact&theme=radical" alt="mekherbo" /></p>-->
+<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mekherbo&show_icons=true&locale=en&theme=radical" alt="mekherbo"/></p>-->
 </div>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyko944&" alt="psyko944" /></p>-->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekherbo&" alt="mekherbo" /></p>-->
 <br>
 <br>
 <br>
@@ -49,4 +49,4 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/psyko944/psyko944/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mekherbo/mekherbo/output/github-snake-dark.svg" alt="Snake animation" />
